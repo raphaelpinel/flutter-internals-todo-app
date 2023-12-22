@@ -1,4 +1,4 @@
-# internals_todo
+# flutter_internals
 
 A new Flutter project.
 
